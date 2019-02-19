@@ -36,6 +36,7 @@ var toLowerCase = function(str) {
     }
 
     console.log(lowerStr);
+    return lowerStr;
 };
 
 toLowerCase(string);
